@@ -28,7 +28,7 @@ Resultados: Gerei insights sobre como o tipo de contrato impacta diretamente na 
 
 ### 🚀 Como visualizar
 Você pode visualizar o projeto diretamente pelo GitHub ou abrir no Google Colab através do link abaixo:
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_O_LINK_AQUI)
+[![Abrir no Colab](https://colab.research.google.com/drive/1NIOkFEp0XjhJzMr6uwtgFRtj4F6p3Jx2?usp=drive_link)](COLE_O_LINK_AQUI)
 
 ### 🚀 Como visualizar
 Você pode visualizar o projeto diretamente pelo GitHub ou abrir no Google Colab através do link abaixo:
